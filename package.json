@@ -1,0 +1,24 @@
+{
+  "name": "Responsive-Website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaleHemidova/Responsive-Website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaleHemidova/Responsive-Website/issues"
+  },
+  "homepage": "https://github.com/JaleHemidova/Responsive-Website#readme",
+  "dependencies": {
+    "@glidejs/glide": "^3.4.1",
+    "aos": "^2.3.4"
+  }
+}
